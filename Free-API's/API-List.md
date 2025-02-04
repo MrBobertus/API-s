@@ -9,7 +9,7 @@ https://quickchart.io/documentation/qr-codes/
 ### Useful tool to get the current ip from the device
 https://www.ipify.org/
 
-### Access time, date, weather and more
+### Access time relevant information
 https://timeapi.io/
 
 ### Create funny things with cat images when you get an html error
